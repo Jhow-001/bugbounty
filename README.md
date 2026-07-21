@@ -1,12 +1,14 @@
 # Offensive Security Portfolio
 
-This repository contains technical case studies based on security vulnerabilities identified during assessments of real-world applications and environments.
+This repository contains technical case studies derived from Offensive Security research conducted on real-world applications and infrastructures through Bug Bounty and Vulnerability Disclosure programs.
 
-The objective is to document, in a structured manner, the entire process of researching, validating and responsibly disclosing identified vulnerabilities, while preserving the most relevant technical aspects of each case.
+Each case study documents, in a structured manner, the complete process of vulnerability identification, validation, technical analysis, impact assessment, and responsible disclosure, preserving only the information necessary to understand the technical aspects involved.
 
-All case studies published here are derived from vulnerabilities that were privately reported to the affected organizations. Sensitive information, such as company names, domains, credentials, identifiers and specific infrastructure details, has been removed or anonymized to preserve confidentiality, while retaining only the information necessary to understand the vulnerability, its exploitation, impact and remediation.
+All organization names, domains, credentials, identifiers, infrastructure assets, and other sensitive information have been removed or anonymized in accordance with Responsible Disclosure practices.
 
-This repository is not intended to provide exploits or facilitate offensive activities, but rather to document technical research, demonstrate security assessment methodologies and share the knowledge acquired throughout the conducted security assessments.
+The published case studies are intended to demonstrate research methodology, technical reasoning, impact assessment, and professional communication in Offensive Security. This repository does not provide exploits or information intended to facilitate offensive activities and serves exclusively as a technical portfolio and educational resource.
+
+All content was produced exclusively within authorized environments, in compliance with the respective scopes and policies of the applicable security programs.
 
 ---
 
